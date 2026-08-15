@@ -1,0 +1,11 @@
+program basexample 
+var
+a, i, j,  v, y, t, x: integer;
+b,h: real;
+k:boolean;
+
+begin 
+read(a, k);
+read(h);
+write(a, h, k);
+end
